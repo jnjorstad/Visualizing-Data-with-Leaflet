@@ -12,3 +12,4 @@ Past 7 Days All Earthquake Data: https://earthquake.usgs.gov/earthquakes/feed/v1
 
 # Preview
 
+![Earthquake Map](https://user-images.githubusercontent.com/99835613/183311370-01a43ab6-a02d-469c-b44e-8e30b8f951b1.png)
