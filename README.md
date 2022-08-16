@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Visualizing Data with Leaflet
 Using leaflet to visualize the United States Geological Survey's earthquake data to allow them to better educate the public and other government organizations on issues facing our planet. 
 
 # Methods Used
